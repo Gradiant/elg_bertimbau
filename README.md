@@ -40,3 +40,5 @@ The original work of this tool is:
 - Souza, F., Nogueira, R., & Lotufo, R. (2020, October). BERTimbau: pretrained BERT models for Brazilian Portuguese. In Brazilian Conference on Intelligent Systems (pp. 403-417). Springer, Cham.
 - Souza, F., Nogueira, R., & Lotufo, R. (2019). Portuguese named entity recognition using BERT-CRF. arXiv preprint arXiv:1909.10649.
 - https://github.com/neuralmind-ai/portuguese-bert
+
+The license of the original work is MIT License.
